@@ -38,7 +38,7 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 # FreeReportBar-BI-AI-RPA智能报表：未来愿景
 通过使用RPA、BI、AI等技术，让中小企业都能用得起智能报表，从而可以更深刻地理解业务，提高决策效率与客户成功率！
 
-# 2025.01.19最新demo链接enjoy😄：待定；The project plan is in progress！
+# 2025.01.20最新demo链接enjoy😄：待定；The project plan is in progress！
 
 # 📫 How to reach us:
 - 官方WeChat:freeaicc
