@@ -1,5 +1,6 @@
-# FreeReportBar-BI-AI-RPA智能报表
+# FreeReportBar-BI-AI-RPA报表吧
 Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Intelligence,智能报表系统，数据报表系统，BI系统！
+
 # FreeReportBar-BI-AI-RPA智能报表：基本功能
 ## RPA数据搬运功能
 1，支持跨系统、跨平台的数据搬运，能够识别和解析不同系统界面上的数据。
@@ -35,10 +36,10 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 1，支持多用户管理和权限控制，确保不同用户只能访问其权限范围内的数据和功能。
 2，提供用户培训和文档支持，帮助用户更好地理解和使用产品。
 
-# FreeReportBar-BI-AI-RPA智能报表：未来愿景
+# FreeReportBar-BI-AI-RPA报表：未来愿景
 通过使用RPA、BI、AI等技术，让中小企业都能用得起智能报表，从而可以更深刻地理解业务，提高决策效率与客户成功率！
 
-# 2025.01.22最新demo链接enjoy😄：待定；The project plan is in progress！
+# 2025.01.22最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
 - 官方WeChat:freeaicc
@@ -48,5 +49,8 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 ![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
 
 # FreeReportBar-BI-AI-RPA智能报表：关于源码与付费（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）
-付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！
+1，RPA：我们推荐的是成熟的RPA厂商，UIPATH在国内的对标公司；
+2，报表：我们推荐的是开源报表厂商，帆软，PowerBI Tableau的对标项目！
+我们在计划以¥4999-¥5999的价格进行RPA、报表的培训并交付一定的sample代码示例，10人报名则开班（支付讲师课酬与基本的运营开支），真诚希望得到您的建议。
 
+我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！
