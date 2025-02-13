@@ -37,7 +37,7 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 2，提供用户培训和文档支持，帮助用户更好地理解和使用产品。
 
 # FreeReportBar-BI-AI-RPA报表：未来愿景
-通过使用RPA、BI、AI等技术，让中小企业都能用得起智能报表，从而可以更深刻地理解业务，提高决策效率与客户成功率。
+通过使用RPA、BI、AI等技术，让中小企业都能用得起智能报表，从而可以更深刻地理解业务，提高决策效率与客户成功率！
 
 # 2025.02.13最新demo链接enjoy😄：待定
 
@@ -47,7 +47,7 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 
 2，报表：我们推荐的是开源报表厂商，帆软、PowerBI、Tableau的对标项目！
 
-我们在计划以¥4999-¥5999的价格进行RPA、报表的培训并交付一定的sample代码示例，10人报名则开班（支付讲师课酬与基本的运营开支），真诚希望得到您的建议。
+我们在计划以¥4999-¥5999的价格进行RPA、报表的培训并交付一定的sample代码示例，10人报名则开班（支付讲师课酬与基本的运营开支），真诚希望得到您的建议！
 
 我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代。
 
