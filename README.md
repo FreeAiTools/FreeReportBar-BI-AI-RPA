@@ -1,5 +1,5 @@
 # FreeReportBar-BI-AI-RPA报表吧
-Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Intelligence,智能报表系统，数据报表系统，BI系统！！
+Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Intelligence,智能报表系统，数据报表系统，BI系统！
 
 # FreeReportBar-BI-AI-RPA智能报表：基本功能
 ## RPA数据搬运功能
@@ -47,7 +47,7 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 
 2，报表：我们推荐的是开源报表厂商，帆软、PowerBI、Tableau的对标项目！
 
-我们在计划以¥4999-¥5999的价格进行RPA、报表的培训并交付一定的sample代码示例，10人报名则开班（支付讲师课酬与基本的运营开支），真诚希望得到您的建议！！
+我们在计划以¥4999-¥5999的价格进行RPA、报表的培训并交付一定的sample代码示例，10人报名则开班（支付讲师课酬与基本的运营开支），真诚希望得到您的建议！！！
 
 我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代。
 
