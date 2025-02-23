@@ -47,7 +47,7 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 
 2，报表：我们推荐的是开源报表厂商，帆软、PowerBI、Tableau的对标项目！
 
-我们在计划以¥4999-¥5999的价格进行RPA、报表的培训并交付一定的sample代码示例，10人报名则开班（支付讲师课酬与基本的运营开支），真诚希望得到您的建议！！！！
+我们在计划以¥4999-¥5999的价格进行RPA、报表的培训并交付一定的sample代码示例，10人报名则开班（支付讲师课酬与基本的运营开支），真诚希望得到您的建议！
 
 我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 
@@ -58,4 +58,4 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 - Email:leehear@gmail.com 
 ![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
 
-# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
+# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
