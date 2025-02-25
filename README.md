@@ -58,4 +58,4 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 - Email:leehear@gmail.com 
 ![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
 
-# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！！！
+# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！！！！
