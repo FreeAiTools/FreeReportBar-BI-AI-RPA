@@ -52,10 +52,11 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 
 # 📫 如有兴趣，请联系:
-- 官方WeChat:freeaicc
+- 官方WeChat:David_Li_Haiya
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
-![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
+![image](https://github.com/user-attachments/assets/1f1037e0-eb49-4c30-ac19-abdec75898fa)
+
 
 # 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！
