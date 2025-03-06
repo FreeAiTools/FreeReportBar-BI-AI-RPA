@@ -1,5 +1,5 @@
-# FreeReportBar-BI-AI-RPA报表吧
-Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Intelligence,智能报表系统，数据报表系统，BI系统！!
+# FreeReportBar-BI-AI-RPA报表吧!!!
+Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Intelligence,智能报表系统，数据报表系统，BI系统!!!
 
 # FreeReportBar-BI-AI-RPA智能报表：基本功能
 ## RPA数据搬运功能
@@ -52,11 +52,11 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 
 # 📫 如有兴趣，请联系:
-- 官方WeChat:David_Li_Haiya
+- 官方WeChat:扫码下侧的企业微信二维码即可（可对公签合同，更有保障）
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com 
-![image](https://github.com/user-attachments/assets/1f1037e0-eb49-4c30-ac19-abdec75898fa)
+- Email:leehear@gmail.com
 
+![easyaicc-企业微信二维码](https://github.com/user-attachments/assets/2bd0ce71-1594-46c1-ac30-80d0edebbcb3)
 
 # 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！！
