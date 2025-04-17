@@ -1,4 +1,4 @@
-# FreeReportBar-BI-AI-RPA报表吧!!!
+# FreeReportBar-BI-AI-RPA报表吧
 Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Intelligence,智能报表系统，数据报表系统，BI系统!!
 
 # FreeReportBar-BI-AI-RPA智能报表：基本功能
