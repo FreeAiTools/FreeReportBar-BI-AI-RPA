@@ -59,7 +59,7 @@ Report,BI,AI,RPA,Robotic Process Automation,Business Intelligence,Artificial Int
 
 ![easyaicc-企业微信二维码](https://github.com/user-attachments/assets/2bd0ce71-1594-46c1-ac30-80d0edebbcb3)
 
-## 😄用户专属群支持小组的群人员数量：10人左右，响应更及时
+## 😄每一个用户，都有专属群支持：10人左右，响应更及时
 
 下图是随机抽取的需求对接的群：
 
